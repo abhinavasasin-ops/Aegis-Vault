@@ -1,0 +1,6 @@
+customtkinter>=5.2.2
+pycryptodome>=3.20.0
+tkinterdnd2>=0.4.2
+Pillow>=10.2.0
+pyinstaller>=6.6.0
+winsdk>=1.0.0b10; platform_system == "Windows"
